@@ -44,7 +44,7 @@
 
 ## License 🪪
 
-> (Apache License, Version 2.0) You're free to use this games and codes in any project, personal or commercial. 
+> (Apache License, Version 2.0) You're free to use this repository and codes in any project, personal or commercial. 
 >
 > There's no need to ask permission before using theses. Giving attribution is not required, but appreciated.
 
