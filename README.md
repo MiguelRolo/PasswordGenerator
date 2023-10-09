@@ -35,7 +35,7 @@
 
 > Install PasswordGenerator Repository with npm
 >
-> *(This will install all files, including all files and this README.md)*
+> *(This will install all files, including this README.md)*
 >
 > ```bash
 >  npm install https://github.com/MiguelRolo/PasswordGenerator.git
