@@ -39,7 +39,7 @@
 >
 > ```bash
 >  npm install https://github.com/MiguelRolo/PasswordGenerator.git
->  cd GamesJs
+>  cd PasswordGenerator
 > ```
 
 ## License 🪪
